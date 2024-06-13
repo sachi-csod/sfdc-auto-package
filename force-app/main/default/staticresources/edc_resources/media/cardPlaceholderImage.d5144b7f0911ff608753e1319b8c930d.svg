@@ -1,0 +1,17 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" fill="#6f708b" viewBox="0 0 100 100"
+    style="display: inline-block; color: rgb(85, 85, 85); fill: rgb(111, 112, 139); height: 6.25rem; width: 6.25rem; user-select: none; transition: all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms;"
+    width="100" height="100">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Article-Copy" transform="translate(-238.000000, -216.000000)" fill="none">
+            <g id="image-placeholder" transform="translate(238.000000, 216.000000)" fill="none">
+                <g id="image" transform="translate(0.000000, 32.258065)" fill="none">
+                    <polygon id="Path-2" fill="#737394"
+                        points="45.1612903 35.483871 72.5806452 8.06451613 100 35.483871"></polygon>
+                    <polygon id="Path-2" fill="#B6B7CC" points="0 35.483871 34.6774194 0 69.3548387 35.483871">
+                    </polygon>
+                    <circle id="Oval" fill="#737394" cx="55.6451613" cy="7.66129032" r="5.64516129"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
