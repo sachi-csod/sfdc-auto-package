@@ -1,0 +1,6 @@
+.sfdx
+force-app
+authFile.json
+scripts
+config/project-scratch-def.json
+mdapi_output_dir

@@ -1,0 +1,19 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "package": "AutoPackage",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "versionDescription": "Test Package"
+    }
+  ],
+  "name": "app-one",
+  "namespace": "edc_ekc_dev_txs",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "59.0",
+  "packageAliases": {
+    "AutoPackage": "0HoJ4000000KyksKAC"
+  }
+}
